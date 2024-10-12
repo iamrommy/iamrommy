@@ -1,9 +1,9 @@
-<h1>Hey there! <img src="wave.gif" width="30px">
+<h1>Hey there! <img src="./assets/wave.gif" width="30px">
 I'm Ramanjot Singh</h1>
 
 <h3 align="center">A passionate Full stack Web developer with experience in a technologies like MERN and also a DSA anthusiast.</h3>
 <div align="center">
-  <img alt="Coding" width="400" src="loficoding.gif">
+  <img alt="Coding" width="400" src="./assets/loficoding.gif">
 </div>
 
 ---
